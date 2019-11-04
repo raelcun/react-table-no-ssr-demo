@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`counter actions decrement action snapshot 1`] = `
+Object {
+  "payload": 5,
+  "type": "DECREMENT_COUNTER",
+}
+`;
+
+exports[`counter actions increment action snapshot 1`] = `
+Object {
+  "payload": 5,
+  "type": "INCREMENT_COUNTER",
+}
+`;
